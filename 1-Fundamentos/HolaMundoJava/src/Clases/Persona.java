@@ -1,7 +1,7 @@
 package Clases;
 public class Persona {
-  String nombre;
-  String apellido;
+  public String nombre;
+  public String apellido;
 
 public void DesplegarInformacion(){
     System.out.println("Nombre:" + nombre);
