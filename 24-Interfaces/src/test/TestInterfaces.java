@@ -14,8 +14,6 @@ public class TestInterfaces {
     imprimir(datos);
     }
     
-    
-    
     public static void imprimir(IAccesoDatos datos){
     datos.listar();
     }

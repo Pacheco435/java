@@ -36,10 +36,10 @@ public class TestColeccionesGenericas {
        miMapa.put("valor3", "Rosario");
        miMapa.put("valor3", "Carlos");
        
-       String elementoMapa = miMapa.get("valor3");
-       //System.out.println("elementoMapa = " + elementoMapa);
-        imprimir(miMapa.keySet());
-        imprimir(miMapa.values());
+       String elementoMapa = miMapa.get("valor100");
+       System.out.println("elementoMapa = " + elementoMapa);
+        //imprimir(miMapa.keySet());
+        //imprimir(miMapa.values());
     }
     public static void imprimir(Collection<String> colection){
     

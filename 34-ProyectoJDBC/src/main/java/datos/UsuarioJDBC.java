@@ -46,7 +46,7 @@ public class UsuarioJDBC {
         return usuarios;
     }
     
-    public int insert(Usuario usuario){
+    public int insert(Usuario usuario) throws SQLException{
         Connection conn = null;
         PreparedStatement stmt = null;
         int rows = 0;

@@ -8,6 +8,10 @@ public class TestAutoBoxingUnBoxing {
         long = Long
         float = Float
         double = Double
+        boolean = Boolean
+        byte = Byte
+        char = Character 
+        short = Short
         */
         //autoboxing convierte la literal de tipo entero a tipo object
         Integer  entero =10;
