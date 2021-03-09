@@ -12,7 +12,7 @@ public class ContadorVisitasServlet  extends HttpServlet{
     protected void doGet(HttpServletRequest request,  HttpServletResponse response) throws IOException{
     
         //vamos a declarar una variable contador de tipo entero igual a 0
-        int contador = 0;
+        int  contador = 0;
         
         //revisar el arreglo de cookies si existe el contador visita 
         Cookie[] cookies = request.getCookies();
