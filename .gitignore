@@ -57,3 +57,9 @@ build
 /52-ClienteSumaWS/target/
 /53-sga-jee-web-WS/target/
 /54-ClienteSgaWs/target/
+/55-sga-jee-web-REST.W.S/target/
+/56-ClienteSgaRestWs/target/
+/57-sga-jee-web-Seguridad/target/
+/58-ClienteEJBSeguridad/target/
+/58-ClienteSgaRestWs-Seguridad/target/
+/58-ClienteSgaWs-Seguridad/target/
