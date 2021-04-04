@@ -16,3 +16,4 @@ build
 /15-PersonasWebHibernateJPA/target/
 /16-SgaWebHibernateJPA/target/
 /17-SgaWebHibernateJPA-EstadosdePersistencia/target/
+/18-SgaWebHibernateJPA-PersistenciaenCascada/target/
